@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-simple-store",
+  "name": "ember-cli-simple-storage",
   "version": "3.2.0",
   "description": "ember-cli addon that provides a simple identity map for ember.js web applications",
   "directories": {
@@ -17,7 +17,7 @@
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/toranb/ember-cli-simple-store"
+      "url": "https://github.com/robclancy/ember-cli-simple-storage"
   },
   "engines": {
     "node": ">= 0.10.0"
