@@ -1,3 +1,5 @@
+NOTE: fork because of https://github.com/toranb/ember-cli-simple-store/issues/23, don't use this
+
 # ember-cli-simple-store
 
 [![Build Status][]](https://travis-ci.org/toranb/ember-cli-simple-store)
